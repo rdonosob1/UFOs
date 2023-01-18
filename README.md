@@ -6,21 +6,24 @@ Finally, Dana’s webpage and dynamic table are working as intended, however, sh
 
 ## Results
 The image below will show you a representation (example) of the how webpage would look like and the different filters added to use for the search criteria.
-image!(https://github.com/rdonosob1/UFOs/blob/main/Resources/website%20illustration.png)
+![image](https://github.com/rdonosob1/UFOs/blob/main/Resources/website%20illustration.png)
 
 In order to use this site, the user will need to type down on any of the blank spaces (fields) either the name of the state, city, country, the shape or the date of the event. So, the page will illustrate the correspondant information as follows:
 
-image![]
+#### Search by Date
+![image](https://github.com/rdonosob1/UFOs/blob/main/Resources/Examples/search%20by%20date.png)
 
-### Search by Date
+#### Search by city
+![image](https://github.com/rdonosob1/UFOs/blob/main/Resources/Examples/search%20by%20city.png)
 
-### Search by city
+#### Search by state
+![image](https://github.com/rdonosob1/UFOs/blob/main/Resources/Examples/search%20by%20state.png)
 
-### Search by state
+#### Search by country
+![image](https://github.com/rdonosob1/UFOs/blob/main/Resources/Examples/search%20by%20country.png)
 
-### Search by country
-
-### Search by shape
+#### Search by shape
+![image](https://github.com/rdonosob1/UFOs/blob/main/Resources/Examples/search%20by%20shape.png)
 
 ## Summary
 ### Drawback: 
